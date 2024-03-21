@@ -40,7 +40,7 @@ python manage.py runserver
 
         - Signle item in Menu
             
-            http://127.0.0.1:8000/restaurant/menu/pk=id (change id to the actual number of a primary key, such as 1)
+            http://127.0.0.1:8000/restaurant/menu/pk=id (change id to a number, such as 1)
 
         - Booking Tables
         
@@ -68,9 +68,9 @@ python manage.py runserver
         - http://127.0.0.1:8000/api
         - http://127.0.0.1:8000/api/api-auth
         - http://127.0.0.1:8000/api/menu
-        - http://127.0.0.1:8000/api/menu/pk=id (change id to the actual number of a primary key, such as 1)
+        - http://127.0.0.1:8000/api/menu/pk=id (change id to a number, such as 1)
         - http://127.0.0.1:8000/api/menu-items
-        - http://127.0.0.1:8000/api/menu-items/pk=id (change id to the actual number of a primary key, such as 1)
+        - http://127.0.0.1:8000/api/menu-items/pk=id (change id to a number, such as 1)
         - http://127.0.0.1:8000/api/message
         - http://127.0.0.1:8000/api/api-token-auth
         - http://127.0.0.1:8000/api/bookings
@@ -79,7 +79,7 @@ python manage.py runserver
         - http://127.0.0.1:8000/api/categories
         - http://127.0.0.1:8000/api/cart/menu-items
         - http://127.0.0.1:8000/api/orders
-        - http://127.0.0.1:8000/api/orders/pk=id (change id to the actual number of a primary key, such as 1)
+        - http://127.0.0.1:8000/api/orders/pk=id (change id to a number, such as 1)
         - http://127.0.0.1:8000/api/groups/manager/users
         - http://127.0.0.1:8000/api/groups/delivery-crew/users
 
