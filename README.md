@@ -1,6 +1,6 @@
 # [Meta Back-End Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-back-end-developer)
 
-## [Back-end developer capstone project](https://www.coursera.org/learn/back-end-developer-capstone?specialization=meta-back-end-developer) -> LittleLemon (Full-Stack Web Application)
+## [Back-end developer capstone project](https://www.coursera.org/learn/back-end-developer-capstone?specialization=meta-back-end-developer) - LittleLemon
 
 ### How to start the application
 Please run the following commands **in sequence**
